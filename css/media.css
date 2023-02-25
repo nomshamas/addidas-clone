@@ -1,0 +1,9 @@
+
+@media screen and (max-width: 768px) {
+	.col-25px {
+		flex: 0 0 35%;
+	}
+	.col-75px {
+		flex: 0 0 65%;
+	}
+}
